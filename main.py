@@ -81,7 +81,7 @@ FONT = ("Arial", 10, "bold")
 
 # Add logo image
 canvas = Canvas(width=200, height=200)
-logo_image = PhotoImage(file="logo.png")
+logo_image = PhotoImage(file="./IMG/logo.png")
 canvas.create_image(100, 100, image=logo_image)
 canvas.grid(column=0, row=0, columnspan=3, pady=20)
 
