@@ -29,8 +29,6 @@ python -m pip install --upgrade tk
 python ./main.py
 ```
 
-## You can move using: W A S D
-
 ## 📺 Demo
 <p align="center">
 <img src="https://github.com/gregorri/Password-Manager/blob/master/IMG/PASSWORD.png" width=70% height=70%>
