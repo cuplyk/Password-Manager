@@ -3,12 +3,6 @@
 
 # Password Manager
 
-<!--An image is an illustration for your project, the tip here is using your sense of humour as much as you can :D 
-
-You can copy paste my markdown photo insert as following:
-<p align="center">
-<img src="your-source-is-here" width=40% height=40%>
--->
 
 ## 🛠️ Description
 This is a simple password manager app that allows you to generate and save passwords for different websites. The app stores the passwords in a JSON file and allows you to search for a password based on the website name.
